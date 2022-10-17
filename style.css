@@ -16,7 +16,7 @@ img {
 }
 
 body {
-    background-color: var(--Lightgray);
+    background-color: #2c7dfa;
     text-align: center;
 }
 
@@ -26,6 +26,7 @@ body {
     margin: 80px auto 20px;
     padding: 15px;
     border-radius: 15px;
+    box-shadow: 0 0px 30px -10px hsl(218, 44%, 22%);
 }
 
 .container img {
@@ -48,6 +49,7 @@ body {
 }
 
 .attribution {
+    color: #fff;
     font-size: 13px;
     text-align: center;
 }
